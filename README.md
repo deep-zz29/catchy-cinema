@@ -1,8 +1,4 @@
 # movieinfo-website
-Movie Database website written using HTML, CSS, JS &amp; PHP.
-
-University Project - Year I
-
-NSBM - LK
+Movie Database website written using HTML, CSS, JS &amp; PHP
 
 Module: Web Based Application Development
